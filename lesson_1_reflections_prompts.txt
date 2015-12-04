@@ -1,0 +1,1 @@
+Using diff helped me see the bug much faster
